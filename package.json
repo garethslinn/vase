@@ -1,0 +1,25 @@
+{
+  "name": "vase",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "express": "~4.12.0",
+    "swig": "",
+    "nodemon": "~1.3.7",
+    "gulp": "~3.8.11"
+  },
+  "description": "app",
+  "main": "app.js",
+  "devDependencies": {
+    "gulp-sass": "",
+    "gulp-minify-css": "~0.5.1",
+    "gulp-concat-css": "~2.1.0",
+    "gulp-concat": "~2.5.2",
+    "body-parser": ""
+  },
+  "author": "G Slinn",
+  "license": "BSD-2-Clause"
+}
